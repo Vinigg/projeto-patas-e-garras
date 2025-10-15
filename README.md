@@ -4,9 +4,8 @@ Este projeto consiste em um sistema simples de gerenciamento de tarefas desenvol
 
 ## Autores e Papéis
 
-- **Vinicius Germano**: Desenvolvimento do frontend (HTML, CSS) e integração visual.
-- **Abdnego Souza**: Implementação da lógica em JavaScript e manipulação do DOM.
-- **Carlos Pereira**: Documentação, testes e revisão geral do projeto.
+- **Vinicius Wagner Gomes Germano**: Desenvolvimento do frontend (HTML, CSS) e integração visual.
+- **Abednego Correia da Silva**: Documentação, paleta e identidade visual.
 
 ## Paleta de Cores e Fontes
 
@@ -72,7 +71,5 @@ Basta abrir o arquivo `index.html` em qualquer navegador web.
 - [x]  Google Fonts.
 - [x]  Imagens otimizadas com `alt` descritivo.
 - [x]  README com papéis, paleta, fontes e decisões.
-- [ ]  Site no ar.
+- [x]  Site no ar.
 - [ ]  Vídeo de demonstração.
-- [ ]  Inclusão de ícones SVG no footer.
-- [ ]  Otimização de imagens (WebP).
