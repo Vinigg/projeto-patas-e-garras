@@ -245,6 +245,10 @@ main{
     }
 }
 
+.container-contacts {
+    margin: 40px;
+}
+
 .contacts {
     width: 90%;
     margin-top: 50px;
