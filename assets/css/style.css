@@ -133,6 +133,9 @@ main{
         }
     }    
 }
+.hero h1, .hero h2 {
+    color: var(--accent-red);
+}
 #styled-anchor {
     text-decoration: none;
     color: var(--link-purple);
