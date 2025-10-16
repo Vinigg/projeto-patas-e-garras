@@ -72,4 +72,4 @@ Basta abrir o arquivo `index.html` em qualquer navegador web.
 - [x]  Imagens otimizadas com `alt` descritivo.
 - [x]  README com papéis, paleta, fontes e decisões.
 - [x]  Site no ar.
-- [ ]  Vídeo de demonstração.
+- [x]  Vídeo de demonstração.
